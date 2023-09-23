@@ -7,6 +7,7 @@ Welcome to the Bharat Intern Web Development Repository! This repository contain
 **Description**: In Task 1, I created my personal portfolio website using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and provides a glimpse into my web development journey.
 
 **Repository**: [Task 1 - Personal Portfolio](https://github.com/anubhavtripathi0509/BharatIntern/tree/main/Task1-Portfolio)
+
 **Live**: [Task 1 - Personal Portfolio](https://anubhavtripathi0509.github.io/portfolio/)
 
 **Features**:
