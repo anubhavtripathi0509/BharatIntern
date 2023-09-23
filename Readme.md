@@ -6,7 +6,8 @@ Welcome to the Bharat Intern Web Development Repository! This repository contain
 
 **Description**: In Task 1, I created my personal portfolio website using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and provides a glimpse into my web development journey.
 
-**Directory**: [Task 1 - Personal Portfolio](task1-personal-portfolio/)
+**Repository**: [Task 1 - Personal Portfolio](https://github.com/anubhavtripathi0509/BharatIntern/tree/main/Task1-Portfolio)
+**Live**: [Task 1 - Personal Portfolio](https://anubhavtripathi0509.github.io/portfolio/)
 
 **Features**:
 - Interactive and responsive design.
@@ -20,7 +21,7 @@ Welcome to the Bharat Intern Web Development Repository! This repository contain
 
 **Description**: Task 2 involved building a Netflix clone website from scratch using HTML and CSS. The goal was to replicate the visual aesthetics and functionality of the popular streaming platform.
 
-**Directory**: [Task 2 - Netflix Clone](task2-netflix-clone/)
+**Repository**: [Task 2 - Netflix Clone](https://github.com/anubhavtripathi0509/BharatIntern/tree/main/Task2-NetflixClone)
 
 **Features**:
 - Visual design mimicking Netflix.
@@ -33,7 +34,7 @@ Welcome to the Bharat Intern Web Development Repository! This repository contain
 
 **Description**: Task 3 challenged me to create a temperature converter application using HTML, CSS, and JavaScript. This handy tool allows users to convert temperatures between Celsius and Fahrenheit.
 
-**Directory**: [Task 3 - Temperature Converter](task3-temperature-converter/)
+**Repository**: [Task 3 - Temperature Converter](https://github.com/anubhavtripathi0509/BharatIntern/tree/main/Task3-TemperatureConverter)
 
 **Features**:
 - User-friendly interface.
@@ -45,12 +46,12 @@ Welcome to the Bharat Intern Web Development Repository! This repository contain
 
 1. Clone this repository to your local machine:
    ```shell
-   git clone https://github.com/your-username/bharat-intern-webdev.git
+   git clone https://github.com/anubhavtripathi0509/BharatIntern.git
    ```
 
 2. Navigate to the specific task directory you want to explore:
    ```shell
-   cd task1-personal-portfolio/
+   cd Task1-Portfolio/
    ```
 
 3. Open the `index.html` file in your preferred web browser to view the project.
